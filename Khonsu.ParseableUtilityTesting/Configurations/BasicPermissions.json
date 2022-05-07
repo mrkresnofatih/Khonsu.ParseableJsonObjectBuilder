@@ -1,0 +1,18 @@
+﻿{
+  "Policy": "Basic Permissions",
+  "Version": "v1.3.12",
+  "GrantedPermissions": {
+    "Authentication": [
+      "APP.AUTH.LOGIN",
+      "APP.AUTH.SIGNUP",
+      "APP.AUTH.LOGOUT"
+    ],
+    "Management": [
+      "APP.MNG.CREATE_IAM",
+      "APP.MNG.REVOKE_IAM",
+      "APP.MNG.UPDATE_IAM"
+    ]
+  },
+  "PolicyActive": true,
+  "CreatedAt": 2341209
+}
